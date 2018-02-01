@@ -1,0 +1,631 @@
+# Translation of Plugins - Hyyan WooCommerce Polylang Integration - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Hyyan WooCommerce Polylang Integration - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-03 08:41:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Hyyan WooCommerce Polylang Integration - Stable (latest release)\n"
+
+#: src/Hyyan/WPI/Gateways/GatewayBACS.php:103
+msgid "Bank"
+msgstr "Bank"
+
+#: src/Hyyan/WPI/Coupon.php:135 src/Hyyan/WPI/Coupon.php:137
+#: src/Hyyan/WPI/Coupon.php:142 src/Hyyan/WPI/Coupon.php:147
+msgid "Woocommerce Coupon Names"
+msgstr "WooCommerce Coupon Names"
+
+#: src/Hyyan/WPI/Coupon.php:86
+msgid "Coupon: %s"
+msgstr "Coupon: %s"
+
+#: src/Hyyan/WPI/Admin/Features.php:166
+msgid "When using WooCommerce 3.1 importer to importing updates to existing items, apply synchronization rules to update any existing translations."
+msgstr "When using WooCommerce 3.1 importer to importing updates to existing items, apply synchronisation rules to update any existing translations."
+
+#: src/Hyyan/WPI/Admin/Features.php:164
+msgid "Synchronize on Import"
+msgstr "Synchronise on Import"
+
+#: src/Hyyan/WPI/Admin/Features.php:155
+msgid "Format numbers according to the convention for current language"
+msgstr "Format numbers according to the convention for current language"
+
+#: src/Hyyan/WPI/Admin/Features.php:153
+msgid "Use locale number formats"
+msgstr "Use locale number formats"
+
+#: src/Hyyan/WPI/Admin/Features.php:60
+msgid "Locks Meta fields which are set to be synchronized."
+msgstr "Locks Meta fields which are set to be synchronised."
+
+#: src/Hyyan/WPI/Views/Messages/activateError.php:24
+msgid "Plugins : "
+msgstr "Plugins : "
+
+#: src/Hyyan/WPI/Views/Messages/activateError.php:19
+msgid "Installation Guide"
+msgstr "Installation Guide"
+
+#: src/Hyyan/WPI/Views/Messages/activateError.php:17
+msgid "See also"
+msgstr "See also"
+
+#: src/Hyyan/WPI/Views/Messages/activateError.php:13
+msgid ""
+"The plugin can not function correctly , the plugin requires\n"
+"        minimum plugin versions WooCommerce version 3 or higher and Polylang 2 or higher.\n"
+"        Please configure Polylang by adding a language before activating WooCommerce Polylang Integration."
+msgstr ""
+"The plugin can not function correctly, the plugin requires\n"
+"        minimum plugin versions WooCommerce version 3 or higher and Polylang 2 or higher.\n"
+"        Please configure Polylang by adding a language before activating WooCommerce Polylang Integration."
+
+#: src/Hyyan/WPI/Plugin.php:234
+msgid "Support"
+msgstr "Support"
+
+#: src/Hyyan/WPI/Plugin.php:233
+msgid "View Issue tracker on GitHub"
+msgstr "View Issue tracker on GitHub"
+
+#: src/Hyyan/WPI/Plugin.php:230
+msgid "View WooCommerce-Polylang Integration documentation"
+msgstr "View WooCommerce-Polylang Integration documentation"
+
+#: src/Hyyan/WPI/Plugin.php:83 src/Hyyan/WPI/Plugin.php:231
+msgid "Docs"
+msgstr "Docs"
+
+#: src/Hyyan/WPI/Admin/Features.php:41 src/Hyyan/WPI/Admin/MetasList.php:46
+#: src/Hyyan/WPI/Views/Admin/about.php:20
+msgid "For more information please see:"
+msgstr "For more information please see:"
+
+#: src/Hyyan/WPI/Tax.php:61
+msgid "Woocommerce Taxes"
+msgstr "WooCommerce Taxes"
+
+#: src/Hyyan/WPI/Product/Variable.php:270
+msgid "Variable Product pricing Metas"
+msgstr "Variable Product pricing Metas"
+
+#: src/Hyyan/WPI/Product/Meta.php:646
+msgid "Note the last price field is the final price taking into account the effect of sale price "
+msgstr "Note the last price field is the final price taking into account the effect of sale price "
+
+#: src/Hyyan/WPI/Product/Meta.php:645
+msgid "Price Metas"
+msgstr "Price Metas"
+
+#: src/Hyyan/WPI/Product/Meta.php:625
+msgid "Downloadable product Meta"
+msgstr "Downloadable product Meta"
+
+#: src/Hyyan/WPI/Product/Meta.php:624
+msgid "Downloadable Metas"
+msgstr "Downloadable Metas"
+
+#: src/Hyyan/WPI/Product/Meta.php:615
+msgid " \"Custom post types and Taxonomies\", \"Custom Taxonomies\""
+msgstr " \"Custom post types and Taxonomies\", \"Custom Taxonomies\""
+
+#: src/Hyyan/WPI/Product/Meta.php:612
+msgid "To select individual Product Attributes for translation or synchronization, turn on here and check"
+msgstr "To select individual Product Attributes for translation or synchronisation, turn on here and check"
+
+#: src/Hyyan/WPI/Product/Meta.php:600
+msgid "Shipping size and weight metas and Shipping class taxonomy"
+msgstr "Shipping size and weight metas and Shipping class taxonomy"
+
+#: src/Hyyan/WPI/Product/Meta.php:588
+msgid "Stock Metas: see also Features, Stock Sync"
+msgstr "Stock Metas: see also Features, Stock Sync"
+
+#: src/Hyyan/WPI/Product/Meta.php:578
+msgid "Synchronisation section values for Page order, Featured image, Comment Status"
+msgstr "Synchronisation section values for Page order, Featured image, Comment Status"
+
+#: src/Hyyan/WPI/Product/Meta.php:577 src/Hyyan/WPI/Product/Meta.php:614
+msgid "Polylang admin menu \"Languages, Settings\""
+msgstr "Polylang admin menu \"Languages, Settings\""
+
+#: src/Hyyan/WPI/Product/Meta.php:575
+msgid "To control these values please check "
+msgstr "To control these values please check "
+
+#: src/Hyyan/WPI/Product/Meta.php:574
+msgid "Polylang Metas"
+msgstr "Polylang Metas"
+
+#: src/Hyyan/WPI/Plugin.php:80
+msgid "Settings"
+msgstr "Settings"
+
+#: src/Hyyan/WPI/Emails.php:184
+msgid "%s - Powered by WooCommerce"
+msgstr "%s - Powered by WooCommerce"
+
+#: src/Hyyan/WPI/Emails.php:145
+msgid "Failed order"
+msgstr "Failed order"
+
+#: src/Hyyan/WPI/Emails.php:144
+msgid "[{site_title}] Failed order ({order_number})"
+msgstr "[{site_title}] Failed order ({order_number})"
+
+#: src/Hyyan/WPI/Emails.php:143
+msgid "Cancelled order"
+msgstr "Cancelled order"
+
+#: src/Hyyan/WPI/Emails.php:142
+msgid "[{site_title}] Cancelled order ({order_number})"
+msgstr "[{site_title}] Cancelled order ({order_number})"
+
+#: src/Hyyan/WPI/Cart.php:352
+msgid "Invalid value posted for %s"
+msgstr "Invalid value posted for %s"
+
+#: src/Hyyan/WPI/Admin/Features.php:44 src/Hyyan/WPI/Admin/MetasList.php:49
+#: src/Hyyan/WPI/Views/Admin/about.php:22
+msgid "documentation pages"
+msgstr "documentation pages"
+
+#: src/Hyyan/WPI/Admin/Features.php:146
+msgid "Translate Source"
+msgstr "Translate Source"
+
+#: src/Hyyan/WPI/Admin/Features.php:145
+msgid "Copy Source"
+msgstr "Copy Source"
+
+#: src/Hyyan/WPI/Admin/Features.php:138
+msgid "New Translation Behaviour"
+msgstr "New Translation Behaviour"
+
+#: src/Hyyan/WPI/Admin/Features.php:99
+msgid "Note: this setting affects user actions on stock, to control synchronisation when editing products check the settings for Metas List, Stock Metas."
+msgstr "Note: this setting affects user actions on the stock, to control synchronisation when editing products check the settings for Metas List, Stock Metas."
+
+#: src/Hyyan/WPI/Shipping.php:146
+msgid "Woocommerce Shipping Methods"
+msgstr "WooCommerce Shipping Methods"
+
+#: src/Hyyan/WPI/Gateways.php:171 src/Hyyan/WPI/Gateways.php:174
+#: src/Hyyan/WPI/Gateways.php:177
+msgid "Woocommerce Payment Gateways"
+msgstr "WooCommerce Payment Gateways"
+
+#: src/Hyyan/WPI/Gateways/GatewayBACS.php:119
+msgid "BIC"
+msgstr "BIC"
+
+#: src/Hyyan/WPI/Gateways/GatewayBACS.php:115
+msgid "IBAN"
+msgstr "IBAN"
+
+#: src/Hyyan/WPI/Gateways/GatewayBACS.php:107
+msgid "Account number"
+msgstr "Account number"
+
+#: src/Hyyan/WPI/Gateways/GatewayBACS.php:135
+msgid "Our bank details"
+msgstr "Our bank details"
+
+#: src/Hyyan/WPI/Gateways/GatewayBACS.php:83
+msgid "Sort code"
+msgstr "Sort code"
+
+#: src/Hyyan/WPI/Emails.php:207 src/Hyyan/WPI/Emails.php:208
+#: src/Hyyan/WPI/Emails.php:212 src/Hyyan/WPI/Emails.php:239
+msgid "Woocommerce Emails"
+msgstr "WooCommerce Emails"
+
+#: src/Hyyan/WPI/Emails.php:139
+msgid "Password Reset Instructions"
+msgstr "Password Reset Instructions"
+
+#: src/Hyyan/WPI/Emails.php:138
+msgid "Password Reset for {site_title}"
+msgstr "Password Reset for {site_title}"
+
+#: src/Hyyan/WPI/Emails.php:137
+msgid "Welcome to {site_title}"
+msgstr "Welcome to {site_title}"
+
+#: src/Hyyan/WPI/Emails.php:136
+msgid "Your account on {site_title}"
+msgstr "Your account on {site_title}"
+
+#: src/Hyyan/WPI/Emails.php:135
+msgid "Your order is complete - download your files"
+msgstr "Your order is complete - download your files"
+
+#: src/Hyyan/WPI/Emails.php:134
+msgid "Your {site_title} order from {order_date} is complete - download your files"
+msgstr "Your {site_title} order from {order_date} is complete - download your files"
+
+#: src/Hyyan/WPI/Emails.php:133
+msgid "Your order is complete"
+msgstr "Your order is complete"
+
+#: src/Hyyan/WPI/Emails.php:132
+msgid "Your {site_title} order from {order_date} is complete"
+msgstr "Your {site_title} order from {order_date} is complete"
+
+#: src/Hyyan/WPI/Emails.php:131
+msgid "Invoice for order {order_number}"
+msgstr "Invoice for order {order_number}"
+
+#: src/Hyyan/WPI/Emails.php:130
+msgid "Invoice for order {order_number} from {order_date}"
+msgstr "Invoice for order {order_number} from {order_date}"
+
+#: src/Hyyan/WPI/Emails.php:129
+msgid "Order {order_number} details"
+msgstr "Order {order_number} details"
+
+#: src/Hyyan/WPI/Emails.php:128
+msgid "Your {site_title} order from {order_date}"
+msgstr "Your {site_title} order from {order_date}"
+
+#: src/Hyyan/WPI/Emails.php:127
+msgid "A note has been added to your order"
+msgstr "A note has been added to your order"
+
+#: src/Hyyan/WPI/Emails.php:126
+msgid "Note added to your {site_title} order from {order_date}"
+msgstr "Note added to your {site_title} order from {order_date}"
+
+#: src/Hyyan/WPI/Emails.php:125
+msgid "Your order has been fully refunded"
+msgstr "Your order has been fully refunded"
+
+#: src/Hyyan/WPI/Emails.php:124
+msgid "Your {site_title} order from {order_date} has been refunded"
+msgstr "Your {site_title} order from {order_date} has been refunded"
+
+#: src/Hyyan/WPI/Emails.php:123
+msgid "Your order has been partially refunded"
+msgstr "Your order has been partially refunded"
+
+#: src/Hyyan/WPI/Emails.php:122
+msgid "Your {site_title} order from {order_date} has been partially refunded"
+msgstr "Your {site_title} order from {order_date} has been partially refunded"
+
+#: src/Hyyan/WPI/Emails.php:121 src/Hyyan/WPI/Emails.php:141
+msgid "Thank you for your order"
+msgstr "Thank you for your order"
+
+#: src/Hyyan/WPI/Emails.php:120 src/Hyyan/WPI/Emails.php:140
+msgid "Your {site_title} order receipt from {order_date}"
+msgstr "Your {site_title} order receipt from {order_date}"
+
+#: src/Hyyan/WPI/Emails.php:119
+msgid "New customer order"
+msgstr "New customer order"
+
+#: src/Hyyan/WPI/Emails.php:118
+msgid "[{site_title}] New customer order ({order_number}) - {order_date}"
+msgstr "[{site_title}] New customer order ({order_number}) - {order_date}"
+
+#: src/Hyyan/WPI/Cart.php:301
+msgid "Please choose product options&hellip;"
+msgstr "Please choose product options&hellip;"
+
+#: src/Hyyan/WPI/Cart.php:359
+msgid "%s is a required field"
+msgid_plural "%s are required fields"
+msgstr[0] "%s is a required field"
+msgstr[1] "%s are required fields"
+
+#: src/Hyyan/WPI/Admin/MetasList.php:38
+msgid ""
+"The section will allow you to control which metas should be\n"
+"                         synced between products and their translations. The default\n"
+"                         values are appropriate for the large majority of the users.\n"
+"                         It is safe to ignore these settings if you do not understand\n"
+"                         their meaning.Please ignore this section if you do not\n"
+"                         understand the meaning of this.\n"
+"                        "
+msgstr ""
+"The section will allow you to control which metas should be\n"
+"                         synced between products and their translations. The default\n"
+"                         values are appropriate for the large majority of the users.\n"
+"                         It is safe to ignore these settings if you do not understand\n"
+"                         their meaning. Please ignore this section if you do not\n"
+"                         understand the meaning of this.\n"
+"                        "
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/hyyan"
+msgstr "https://github.com/hyyan"
+
+#. Author of the plugin/theme
+msgid "Hyyan Abo Fakher"
+msgstr "Hyyan Abo Fakher"
+
+#. Description of the plugin/theme
+msgid "Integrates Woocommerce with Polylang"
+msgstr "Integrates WooCommerce with Polylang"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/hyyan/woo-poly-integration/"
+msgstr "https://github.com/hyyan/woo-poly-integration/"
+
+#: vendor/class.settings-api.php:367
+msgid "Choose File"
+msgstr "Choose File"
+
+#: src/Hyyan/WPI/Views/admin.php:7
+msgid "WooPoly Advanced Options"
+msgstr "WooPoly Advanced Options"
+
+#: src/Hyyan/WPI/Views/Messages/support.php:23
+msgid ""
+"Hello, my name is <b>Hyyan Abo Fakher</b>, and I am the developer\n"
+"                   of plugin <b>Hyyan WooCommerce Polylang Integration</b>.<br>\n"
+"                   If you like this plugin, please write a few words about it\n"
+"                   at the <a target=\"_blank\" href=\"https://wordpress.org/support/view/plugin-reviews/woo-poly-integration\">wordpress.org</a>\n"
+"                   or <a target=\"_blank\" href=\"https://twitter.com\">twitter</a>\n"
+"                   It will help other people\n"
+"                   find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+"Hello, my name is <b>Hyyan Abo Fakher</b>, and I am the developer\n"
+"                   of plugin <b>Hyyan WooCommerce Polylang Integration</b>.<br>\n"
+"                   If you like this plugin, please write a few words about it\n"
+"                   at the <a target=\"_blank\" href=\"https://wordpress.org/support/view/plugin-reviews/woo-poly-integration\">wordpress.org</a>\n"
+"                   or <a target=\"_blank\" href=\"https://twitter.com\">twitter</a>\n"
+"                   It will help other people\n"
+"                   find this useful plugin more quickly.<br><b>Thank you!</b>"
+
+#: src/Hyyan/WPI/Views/Messages/endpointsTranslations.php:11
+msgid ""
+"You can translate woocommerce endpoints from polylang strings tab.\n"
+"                 <a target=\"_blank\" href=\"%s\">%s</a>"
+msgstr ""
+"You can translate WooCommerce endpoints from polylang strings tab.\n"
+"                 <a target=\"_blank\" href=\"%s\">%s</a>"
+
+#: src/Hyyan/WPI/Views/Messages/activateError.php:30
+msgid "Polylang"
+msgstr "Polylang"
+
+#: src/Hyyan/WPI/Views/Messages/activateError.php:26
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: src/Hyyan/WPI/Views/Messages/activateError.php:8
+#: src/Hyyan/WPI/Views/Messages/support.php:15
+msgid "Hyyan WooCommerce Polylang Integration Plugin"
+msgstr "Hyyan WooCommerce Polylang Integration Plugin"
+
+#: src/Hyyan/WPI/Views/Admin/support.php:13
+msgid ""
+"<strong>I will never ask you for donation , now or in the future</strong> ,\n"
+"        but the plugin stills need your support.\n"
+"        please support by rating this plugin On\n"
+"        <a href=\"https://wordpress.org/support/view/plugin-reviews/woo-poly-integration\">Wordpress Repository</a> ,\n"
+"        or by giving the plugin a star on  <a href=\"https://github.com/hyyan/woo-poly-integration\">Github</a>.\n"
+"        <br><br>\n"
+"        If you speak langauge other than English ,\n"
+"        you can support the plugin by extending the\n"
+"        trasnlation list. and your name will be added\n"
+"        to translators list"
+msgstr ""
+"<strong>I will never ask you for donation , now or in the future</strong> ,\n"
+"        but the plugin stills need your support.\n"
+"        please support by rating this plugin On\n"
+"        <a href=\"https://wordpress.org/support/view/plugin-reviews/woo-poly-integration\">Wordpress Repository</a> ,\n"
+"        or by giving the plugin a star on  <a href=\"https://github.com/hyyan/woo-poly-integration\">Github</a>.\n"
+"        <br><br>\n"
+"        If you speak langauge other than English ,\n"
+"        you can support the plugin by extending the\n"
+"        translation list, and your name will be added\n"
+"        to translators list"
+
+#: src/Hyyan/WPI/Views/Admin/support.php:8
+msgid "Support The Plugin"
+msgstr "Support The Plugin"
+
+#: src/Hyyan/WPI/Views/Admin/getHelp.php:31
+msgid "On Email"
+msgstr "On Email"
+
+#: src/Hyyan/WPI/Views/Admin/getHelp.php:21
+msgid "On Github"
+msgstr "On Github"
+
+#: src/Hyyan/WPI/Views/Admin/getHelp.php:13
+msgid ""
+"Need help , Want to ask for new feature ?\n"
+"                please contact using one of the following methods"
+msgstr ""
+"Need help , Want to ask for new feature ?\n"
+"                please contact using one of the following methods"
+
+#: src/Hyyan/WPI/Views/Admin/getHelp.php:7
+msgid "Need Help ?"
+msgstr "Need Help?"
+
+#: src/Hyyan/WPI/Views/Admin/about.php:28
+msgid "Author : "
+msgstr "Author : "
+
+#: src/Hyyan/WPI/Views/Admin/about.php:14
+msgid ""
+"The plugin is an open source project\n"
+"            which aims to fill the gap between\n"
+"            <a href=\"https://wordpress.org/plugins/woocommerce/\">Woocommerce</a>\n"
+"            and <a href=\"https://wordpress.org/plugins/polylang/\">Polylang</a>"
+msgstr ""
+"The plugin is an open source project\n"
+"            which aims to fill the gap between\n"
+"            <a href=\"https://en-gb.wordpress.org/plugins/woocommerce/\">WooCommerce</a>\n"
+"            and <a href=\"https://en-gb.wordpress.org/plugins/polylang/\">Polylang</a>"
+
+#: src/Hyyan/WPI/Views/Admin/about.php:8
+msgid "About The Plugin"
+msgstr "About The Plugin"
+
+#: src/Hyyan/WPI/Tools/TranslationsDownloader.php:54
+msgid "Unable to download woocommerce translation %s from : <a href=\"%2$s\">%2$s</a>"
+msgstr "Unable to download WooCommerce translation %s from : <a href=\"%2$s\">%2$s</a>"
+
+#: src/Hyyan/WPI/Tools/TranslationsDownloader.php:44
+msgid "Woocommerce translation %s can not be found in : <a href=\"%2$s\">%2$s</a>"
+msgstr "WooCommerce translation %s can not be found in : <a href=\"%2$s\">%2$s</a>"
+
+#: src/Hyyan/WPI/Taxonomies/Attributes.php:124
+#: src/Hyyan/WPI/Views/Messages/endpointsTranslations.php:16
+msgid "Translate"
+msgstr "Translate"
+
+#: src/Hyyan/WPI/Taxonomies/Attributes.php:108
+msgid "Translate Attributes Lables"
+msgstr "Translate Attributes Labels"
+
+#: src/Hyyan/WPI/Taxonomies/Attributes.php:56
+#: src/Hyyan/WPI/Taxonomies/Attributes.php:101
+msgid "Woocommerce Attributes"
+msgstr "WooCommerce Attributes"
+
+#: src/Hyyan/WPI/Product/Variable.php:382
+msgid "You can not change the default language ,Becuase you are using variable products"
+msgstr "You can not change the default language, becuase you are using variable products"
+
+#: src/Hyyan/WPI/Product/Variable.php:338
+msgid "Variable product must be created in the default language first or things will get messy. <br> <a href='https://github.com/hyyan/woo-poly-integration/tree/master#what-you-need-to-know-about-this-plugin' target='_blank'>Read more , to know why</a>"
+msgstr "Variable product must be created in the default language first or things will get messy. <br> <a href='https://github.com/hyyan/woo-poly-integration/tree/master#what-you-need-to-know-about-this-plugin' target='_blank'>Read more, to know why</a>"
+
+#: src/Hyyan/WPI/Product/Variable.php:338
+msgid "Wrong Language For Variable Product"
+msgstr "Wrong Language For Variable Product"
+
+#: src/Hyyan/WPI/Product/Variable.php:269
+msgid "Variables Metas"
+msgstr "Variables Metas"
+
+#: src/Hyyan/WPI/Product/Meta.php:636 src/Hyyan/WPI/Product/Meta.php:637
+msgid "Taxes Metas"
+msgstr "Taxes Metas"
+
+#: src/Hyyan/WPI/Product/Meta.php:611
+msgid "Attributes Metas"
+msgstr "Attributes Metas"
+
+#: src/Hyyan/WPI/Product/Meta.php:599
+msgid "ShippingClass Metas"
+msgstr "ShippingClass Metas"
+
+#: src/Hyyan/WPI/Product/Meta.php:587
+msgid "Stock Metas"
+msgstr "Stock Metas"
+
+#: src/Hyyan/WPI/Product/Meta.php:556 src/Hyyan/WPI/Product/Meta.php:557
+msgid "General Metas"
+msgstr "General Metas"
+
+#: src/Hyyan/WPI/Language.php:54
+msgid "Download Woocommerce translations when a new polylang language is added"
+msgstr "Download WooCommerce translations when a new polylang language is added"
+
+#: src/Hyyan/WPI/Language.php:53
+msgid "Translation Downloader"
+msgstr "Translation Downloader"
+
+#: src/Hyyan/WPI/Endpoints.php:274
+msgid "Woocommerce Endpoints"
+msgstr "WooCommerce Endpoints"
+
+#: src/Hyyan/WPI/Admin/Settings.php:56
+msgid "WooPoly"
+msgstr "WooPoly"
+
+#. #-#-#-#-#  woo-poly-integration-code.pot (Hyyan WooCommerce Polylang
+#. Integration 1.0.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: src/Hyyan/WPI/Admin/Settings.php:56
+msgid "Hyyan WooCommerce Polylang Integration"
+msgstr "Hyyan WooCommerce Polylang Integration"
+
+#: src/Hyyan/WPI/Admin/MetasList.php:37
+msgid "Metas List"
+msgstr "Metas List"
+
+#: src/Hyyan/WPI/Admin/Features.php:129
+msgid "Enable attributes translations"
+msgstr "Enable attributes translations"
+
+#: src/Hyyan/WPI/Admin/Features.php:127
+msgid "Translate Attributes"
+msgstr "Translate Attributes"
+
+#: src/Hyyan/WPI/Admin/Features.php:119
+msgid "Enable tags translations"
+msgstr "Enable tags translations"
+
+#: src/Hyyan/WPI/Admin/Features.php:117
+msgid "Translate Tags"
+msgstr "Translate Tags"
+
+#: src/Hyyan/WPI/Admin/Features.php:109
+msgid "Enable categories translations"
+msgstr "Enable categories translations"
+
+#: src/Hyyan/WPI/Admin/Features.php:107
+msgid "Translate Categories"
+msgstr "Translate Categories"
+
+#: src/Hyyan/WPI/Admin/Features.php:97
+msgid "Sync stock for product and its translations"
+msgstr "Sync stock for product and its translations"
+
+#: src/Hyyan/WPI/Admin/Features.php:95
+msgid "Stock Sync"
+msgstr "Stock Sync"
+
+#: src/Hyyan/WPI/Admin/Features.php:87
+msgid "Apply coupons rules for product and its translations"
+msgstr "Apply coupons rules for product and its translations"
+
+#: src/Hyyan/WPI/Admin/Features.php:86
+msgid "Coupons Sync"
+msgstr "Coupons Sync"
+
+#: src/Hyyan/WPI/Admin/Features.php:78
+msgid "Enable reports language filtering and combining"
+msgstr "Enable reports language filtering and combining"
+
+#: src/Hyyan/WPI/Admin/Features.php:77
+msgid "Reports"
+msgstr "Reports"
+
+#: src/Hyyan/WPI/Admin/Features.php:69
+msgid "Use order language whenever woocommerce sends order emails"
+msgstr "Use order language whenever WooCommerce sends order emails"
+
+#: src/Hyyan/WPI/Admin/Features.php:68
+msgid "Emails"
+msgstr "Emails"
+
+#: src/Hyyan/WPI/Admin/Features.php:59
+msgid "Fields Locker"
+msgstr "Fields Locker"
+
+#: src/Hyyan/WPI/Admin/Features.php:38
+msgid ""
+" The section will allow you to Enable/Disable\n"
+"                          Plugin Features."
+msgstr ""
+" The section will allow you to Enable/Disable\n"
+"                          Plugin Features."
+
+#: src/Hyyan/WPI/Admin/Features.php:37
+msgid "Features"
+msgstr "Features"

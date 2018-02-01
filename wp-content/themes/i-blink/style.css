@@ -1,0 +1,56 @@
+/*
+Theme Name: I-blink
+Theme URI: https://wordpress.org/themes/twentyfifteen/
+Author: I-blink team
+Author URI: https://www.localhost/hight-blink/
+Description: Theme wordpress de i-blink
+Version: 1.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, blue, gray, pink, purple, white, yellow, dark, light, two-columns, left-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: twentyfifteen
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+.sm-default >li > a{text-transform:uppercase;}
+.icon-divider {
+  background-color: #ffffff;
+  display: block;
+  font-size: 38px !important;
+  height: 50px;
+  left: 50%;
+  line-height: 50px;
+  margin-left: -50px;
+  margin-top: -45px;
+  position: absolute;
+  text-align: center;
+  width: 100px;
+}
+.contact-form input,  .contact-form textarea{
+  background: #f9f9f9 none repeat scroll 0 0;
+  border: 1px solid #e5e5e5;
+  box-shadow: none;
+  color: #848494;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+.cuar-menu-container{display:none;}
+.top-menu-left ul li a.link {
+  display: inline-block;
+  padding: 10px;
+}
+.modal-backdrop{display:none !important;}
+.woocommerce-Tabs-panel{
+  text-align:left;
+
+}
+.woocommerce div.product .woocommerce-tabs .panel {
+  margin: 0 0 2em;
+  padding:10px;
+}
+.entry-summary{
+  text-align: left;
+}
